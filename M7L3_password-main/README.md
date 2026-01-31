@@ -28,5 +28,4 @@ pytest
 
 Kodland
 
-ddada
 
