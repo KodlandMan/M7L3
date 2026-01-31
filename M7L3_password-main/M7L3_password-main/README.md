@@ -23,6 +23,9 @@ pip install pytest
 ```bash
 pytest
 ```
+## Changes
+
+new test function added
 
 ## Автор
 
